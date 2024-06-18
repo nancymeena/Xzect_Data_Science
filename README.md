@@ -1,2 +1,2 @@
-# Xzect_Data_Science_Literacy
+# Xzect_Data_Science
 Data Science Tasks 7-8
