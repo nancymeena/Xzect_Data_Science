@@ -1,2 +1,2 @@
 # Xzect_Data_Science
-Data Science Tasks (Python)
+Making predictions and analyzing data using Machine Learning
